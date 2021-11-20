@@ -1,7 +1,7 @@
 ### Olá, sou Jonathas :)
 
 - 🔭 Trabalhando atualmente com front end
-- 🌱 Estudando JavaScript e frameworks
+- 🌱 Estudando JavaScript e React
 - 😄 Pronouns: ele/dele
  
 <div align="center">
